@@ -60,14 +60,14 @@ section.imagem > p{
 }
 
 section#chuva{
-    background-image: url(../assets/img/rain-effect-nature-background.jpg);
+    background-image: url(rain-effect-nature-background.jpg);
     background-position: bottom center;
     background-size: cover;
     background-attachment: fixed;
 }
 
 section#sol{
-    background-image: url(../assets/img/sunrise-hilly-landscape.jpg);
+    background-image: url(sunrise-hilly-landscape.jpg);
     background-position: left center;
     background-size:cover;
     background-attachment: fixed;
